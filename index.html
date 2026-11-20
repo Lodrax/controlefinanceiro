@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Sistema Financeiro</title>
+
+    <link rel="stylesheet" href="css/style.css?v=2" />
+  </head>
+  <body>
+    <main class="pagina-inicial">
+      <header class="cabecalho">
+        <h1>Sistema Financeiro</h1>
+        <p>Gestão financeira com simplicidade e eficiência.</p>
+      </header>
+
+      <a href="gerente/entrar.php" class="botao-gerente"> Gerente </a>
+
+      <button
+        type="button"
+        class="botao-menu"
+        id="botaoMenu"ins
+        aria-label="Abrir menu"
+        aria-expanded="false"
+        aria-controls="menuLateral"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </main>
+
+    <div class="sobreposicao" id="sobreposicao"></div>
+
+    <aside class="menu-lateral" id="menuLateral" aria-hidden="true">
+      <div class="menu-conteudo">
+        <span class="menu-legenda">NAVEGAÇÃO</span>
+
+        <a href="funcionario/acesso.php" class="item-menu">
+          <span>01</span>
+          Funcionário
+        </a>
+
+        <a href="fornecedor/entrar.php" class="item-menu">
+          <span>02</span>
+          Fornecedor
+        </a>
+
+        <a href="contas/acesso.php" class="item-menu">
+          <span>03</span>
+          Contas
+        </a>
+
+        <a href="ver_contas/acesso.php" class="item-menu">
+          <span>04</span>
+          Ver contas
+        </a>
+
+        <div class="menu-rodape">
+          <span>SISTEMA FINANCEIRO</span>
+          <span>GESTÃO INTELIGENTE</span>
+        </div>
+      </div>
+    </aside>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>

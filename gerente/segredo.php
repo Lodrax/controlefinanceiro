@@ -1,0 +1,3 @@
+<?php
+
+define("SENHA_ADMINISTRADOR", "12345678");
