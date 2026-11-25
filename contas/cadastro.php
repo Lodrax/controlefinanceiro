@@ -146,8 +146,8 @@ mysqli_close($conexao);
                 </button>
             </form>
 
-            <footer>Sistema Financeiro © 2026</footer>
         </section>
+        <footer>Sistema Financeiro © 2026</footer>
     </main>
 </body>
 

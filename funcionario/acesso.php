@@ -186,9 +186,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
             </form>
 
-            <footer>Sistema Financeiro © 2026</footer>
-
         </section>
+        <footer>Sistema Financeiro © 2026</footer>
 
     </main>
 
