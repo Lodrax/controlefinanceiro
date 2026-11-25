@@ -151,7 +151,8 @@ if (
 
         </section>
 
-    </main>
+            <footer>Sistema Financeiro © 2026</footer>
+</main>
 
 </body>
 

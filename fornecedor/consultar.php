@@ -141,7 +141,8 @@ if ($codigo !== false && $codigo !== null && $codigo > 0) {
                 </div>
             <?php endif; ?>
         </section>
-    </main>
+            <footer>Sistema Financeiro © 2026</footer>
+</main>
 </body>
 
 </html>

@@ -88,7 +88,8 @@ require_once __DIR__ . "/proteger.php";
                 <button type="submit" class="botao-cadastrar">Cadastrar fornecedor</button>
             </form>
         </section>
-    </main>
+            <footer>Sistema Financeiro © 2026</footer>
+</main>
 </body>
 
 </html>

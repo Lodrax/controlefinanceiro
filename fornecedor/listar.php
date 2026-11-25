@@ -90,7 +90,8 @@ if (!$resultado) {
                 <?php endif; ?>
             </div>
         </section>
-    </main>
+            <footer>Sistema Financeiro © 2026</footer>
+</main>
     <dialog class="modal-exclusao-conta" id="modalConfirmacaoExclusao" aria-labelledby="tituloConfirmacaoExclusao">
         <div class="modal-exclusao-conteudo">
             <span class="modal-exclusao-icone" aria-hidden="true">

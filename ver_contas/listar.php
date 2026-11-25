@@ -675,7 +675,7 @@ $relatorios = [
             </div>
         </dialog>
 
-        <footer>Sistema Financeiro &copy; 2026</footer>
+        <footer>Sistema Financeiro © 2026</footer>
     </main>
     <script src="../js/exclusao-conta.js?v=2" defer></script>
 </body>

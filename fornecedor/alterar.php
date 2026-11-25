@@ -301,7 +301,8 @@ mysqli_close($conexao);
                 <button type="submit" class="botao-cadastrar">Salvar alterações</button>
             </form>
         </section>
-    </main>
+            <footer>Sistema Financeiro © 2026</footer>
+</main>
 </body>
 
 </html>

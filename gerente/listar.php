@@ -169,7 +169,8 @@ if (!$resultado) {
             </div>
         </dialog>
 
-    </main>
+            <footer>Sistema Financeiro © 2026</footer>
+</main>
 
     <script src="../js/confirmacao-exclusao.js" defer></script>
 </body>

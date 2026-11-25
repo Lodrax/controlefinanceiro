@@ -68,9 +68,7 @@ if (
 
         </section>
 
-        <footer>
-            Sistema Financeiro &copy; 2026
-        </footer>
+        <footer>Sistema Financeiro © 2026</footer>
 
     </main>
 

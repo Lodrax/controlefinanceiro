@@ -118,7 +118,8 @@ if (hash_equals(SENHA_ADMINISTRADOR, $senha)) {        session_regenerate_id(tru
 
         </section>
 
-    </main>
+            <footer>Sistema Financeiro © 2026</footer>
+</main>
 
 </body>
 

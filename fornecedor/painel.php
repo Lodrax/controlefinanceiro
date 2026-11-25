@@ -40,7 +40,7 @@ require_once __DIR__ . "/proteger.php";
             <a href="excluir.php" class="botao-painel">Excluir fornecedor</a>
         </section>
 
-        <footer>Sistema Financeiro &copy; 2026</footer>
+        <footer>Sistema Financeiro © 2026</footer>
     </main>
 </body>
 
