@@ -2,13 +2,11 @@
 
 session_start();
 
-if (
-    isset($_SESSION["ver_contas_autorizado"]) &&
-    $_SESSION["ver_contas_autorizado"] === true
-) {
-    header("Location: listar.php");
-    exit;
-}
+unset(
+    $_SESSION["ver_contas_autorizado"],
+    $_SESSION["ver_contas_usuario"],
+    $_SESSION["csrf_ver_contas"]
+);
 
 $erro = "";
 
